@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://github.com/Afsah-Hyder">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Samiya+Ali+Zaidi;Researcher+%7C+Undergraduate+Student+%7C+Computer+Vision+%7C+Deep+Learning](https://avatars.githubusercontent.com/u/94605943?v=4)" alt="Typing SVG" />
+    <img srchttps://avatars.githubusercontent.com/u/94605943?v=4" alt="Typing SVG" />
 </a>
 <br/>
 
