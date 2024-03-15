@@ -8,7 +8,7 @@
 <!--<a href="https://medium.com">
     <img src="https://img.shields.io/badge/Website-medium-red?style=flat-square">
 </a>  -->
-<a href="https://drive.google.com/file/d/1LAVPQyLbGrTPm6C6ZSJrI5wmRyzUE6s8/view?usp=sharing"](https://drive.google.com/file/d/1yButXuy7IqO68d8p3gYp6sr9LkFNkv_L/view?usp=sharing>
+<a href="https://drive.google.com/file/d/1yButXuy7IqO68d8p3gYp6sr9LkFNkv_L/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/afsah-hyder-845381193/">
@@ -46,13 +46,13 @@ My Github Stats
 <br>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samiyaalizaidi&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Afsah-Hyder&theme=aura) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samiyaalizaidi&theme=aura) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samiyaalizaidi&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Afsah-Hyder&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Afsah-Hyder&theme=aura)
 
 
-![](https://streak-stats.demolab.com/?user=samiyaalizaidi&theme=midnight-purple)
+![](https://streak-stats.demolab.com/?user=Afsah-Hyder&theme=midnight-purple)
 
 
 <br>
