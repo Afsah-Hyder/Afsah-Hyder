@@ -1,14 +1,14 @@
 
 <p align="center">
 <a href="https://github.com/Afsah-Hyder">
-    <img srchttps://avatars.githubusercontent.com/u/94605943?v=4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=1000&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Afsah+Hyder;Researcher+%7C+Undergraduate+Student+%7C+Computer+Vision+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 <br/>
 
 <!--<a href="https://medium.com">
     <img src="https://img.shields.io/badge/Website-medium-red?style=flat-square">
 </a>  -->
-<a href="https://drive.google.com/file/d/1LAVPQyLbGrTPm6C6ZSJrI5wmRyzUE6s8/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1LAVPQyLbGrTPm6C6ZSJrI5wmRyzUE6s8/view?usp=sharing"](https://drive.google.com/file/d/1yButXuy7IqO68d8p3gYp6sr9LkFNkv_L/view?usp=sharing>
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/afsah-hyder-845381193/">
@@ -24,7 +24,7 @@
 <br/> 
 
 <a href="https://github.com/Afsah-Hyder">
-    <img src="https://github-stats-alpha.vercel.app/api?username=samiyaalizaidi&cc=22272e&width=500px&tc=9745F5&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Afsah-Hyder&cc=22272e&width=500px&tc=9745F5&ic=fff&bc=0000">
 </a>
 
 
